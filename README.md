@@ -10,4 +10,4 @@
 ## Dataset : https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews
 
 ### Note:
-Jalankan notebook FPRSBP_BA_AirlineReviews.ipynb sebelum menjalankan [GUI.py](https://github.com/indhiraya/FP-RSBP/blob/main/GUI.py). lalu download folder air-line-sentimen-model, setelah itu letakkan file GUI.py di satu folder dengan folder airline-sentiment-model.
+Jalankan notebook [FPRSBP_BA_AirlineReviews.ipynb](https://github.com/indhiraya/FP-RSBP/blob/main/FPRSBP_BA_AirlineReviews.ipynb) sebelum menjalankan [GUI.py](https://github.com/indhiraya/FP-RSBP/blob/main/GUI.py). lalu download folder air-line-sentimen-model, setelah itu letakkan file GUI.py di satu folder dengan folder airline-sentiment-model.
